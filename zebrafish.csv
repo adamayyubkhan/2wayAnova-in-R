@@ -1,0 +1,31 @@
+Treatment,drug,pax7_expression
+injured,DMSO,14
+injured,DMSO,15
+injured,DMSO,18
+injured,DMSO,17
+injured,DMSO,8
+injured,DMSO,12
+injured,DMSO,11
+uninjured ,DMSO,9
+uninjured ,DMSO,3
+uninjured ,DMSO,13
+uninjured ,DMSO,2
+uninjured ,DMSO,4
+uninjured ,DMSO,3
+uninjured ,DMSO,3
+injured,ML355,21
+injured,ML355,17
+injured,ML355,22
+injured,ML355,21
+injured,ML355,14
+injured,ML355,20
+injured,ML355,11
+injured,ML355,15
+uninjured ,ML355,8
+uninjured ,ML355,9
+uninjured ,ML355,8
+uninjured ,ML355,11
+uninjured ,ML355,14
+uninjured ,ML355,6
+uninjured ,ML355,2
+uninjured ,ML355,6
